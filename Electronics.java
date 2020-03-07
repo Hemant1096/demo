@@ -3,11 +3,11 @@ public static int price;
 public static class Television{
 public static void cost()                // Through Static method
 {
-System.out.println("call through static method Price is "+2000);
+System.out.println("call through static method Price is "+5000);
 }
 public  void cost1()                // Through Non-Static method
 {
-System.out.println("call through non-static method Price is "+5000);
+System.out.println("call through non-static method Price is "+10000);
 }  }  }
 public class Main{
 public static void main(String args[]){
